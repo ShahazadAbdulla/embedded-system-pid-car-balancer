@@ -5,7 +5,9 @@
 This project implements a **PID-based car balancing system**. The car is placed on a platform, and an ultrasonic sensor is used to measure the distance from the edge of the platform. A **servo motor** adjusts the tilt of the platform to keep the car at a constant distance of **15 cm** from the edge, ensuring stability as the car moves.
 
 The project demonstrates how PID control can be used for balancing systems, with a simple platform to control the tilt and balance of the toy car.
-![WhatsApp Image 2025-03-21 at 18 23 52](https://github.com/user-attachments/assets/2614d42c-755f-4cfc-9310-2509881cf0b1)  ![WhatsApp Image 2025-03-21 at 18 23 53](https://github.com/user-attachments/assets/2affc16a-a992-4b5a-892e-fb515b399dd7)
+
+![WhatsApp Image 2025-03-21 at 18 23 52](https://github.com/user-attachments/assets/2614d42c-755f-4cfc-9310-2509881cf0b1) 
+![WhatsApp Image 2025-03-21 at 18 23 53](https://github.com/user-attachments/assets/2affc16a-a992-4b5a-892e-fb515b399dd7)
 
 ## Components Used
 
